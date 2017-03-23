@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм» [![Build status][travis-image]][travis-url]
 
 * Студент: [Дмитрий Пантюхов](https://up.htmlacademy.ru/javascript/9/user/318577).
-* Наставник: `Неизвестно`.
+* Наставник: `Игорь Антонов`.
 
 ---
 
